@@ -1,0 +1,6 @@
+{
+  "name": "Muqaddar - Craftsman Pro",
+  "description": "Smart estimator, room measurements calculator, material analyzer and professional PDF offer generator for craftsmen and engineers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
